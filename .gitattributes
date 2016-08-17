@@ -1,2 +1,2 @@
 * linguist-vendored=false
-resources/* linguist-vendored
+resources/**/* linguist-vendored
