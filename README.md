@@ -3,9 +3,11 @@ hypnotoad1k
 
 Overview
 --------
-hypnotoad1k is an entry for the JS1k 2016 (Let's get eleMental!) JavaScript code golfing competition.
+[hypnotoad1k](http://gaborbata.github.io/hypnotoad1k/) is an entry for the [JS1k 2016 (Let's get eleMental!)](http://js1k.com/2016-elemental/) JavaScript code golfing competition.
 
 The goal of the competition is to create a fancy JavaScript demo up to 1024 bytes.
+
+![hypnotoad1k](https://raw.githubusercontent.com/gaborbata/hypnotoad1k/master/hypnotoad1k.png)
 
 Demo Description
 ----------------
