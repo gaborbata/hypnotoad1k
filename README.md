@@ -7,6 +7,8 @@ Overview
 
 The goal of the competition is to create a fancy JavaScript demo up to 1024 bytes.
 
+![hypnotoad1k](https://raw.githubusercontent.com/gaborbata/hypnotoad1k/master/hypnotoad1k.png)
+
 Demo Description
 ----------------
 Elementary mental experience based on an episode of the 31st century's most popular TV series:
