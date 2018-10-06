@@ -39,7 +39,7 @@ function X(q, w, e) {
 X(0, 0, 0);
 c.fillRect(0, 0, W * S + M * 2, H * S + M * 2);
 
-// decompress image (x: substitution map, j: compresssed data)
+// decompress image (x: substitution map, j: compressed data)
 // compression script can be found there: https://git.io/v2Czm
 x =('~00z~~y66x55w44v11uzztyysxxrwwq51p01o77nttmvvlz~k41juuiw1hj' +
     'ug1sfl1exqdzpcribooa22`rr_1nZ1hY5wX4vWqhV5vUlpT1wSssR~pQ1xP' +
