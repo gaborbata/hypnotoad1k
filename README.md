@@ -18,6 +18,3 @@ WARNING: The Hypnotoad is an ordinary-seeming toad with hypnotic powers,
 it has the ability to hypnotize people and beings into a trance-like state of its own bidding.
 
 All Glory to the Hypnotoad!
-
-> Demo data is based on the following image with small modifications:
-> http://jefferythespacewalrus.tumblr.com/post/90577163935/all-glory-to-the-hypnotoad
